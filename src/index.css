@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+
+:root{
+  --heading-h1:'Frank Ruhl Libre',serif;
+  
+}
+
+body{
+  scroll-behavior: smooth;
+}
